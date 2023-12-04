@@ -8,3 +8,6 @@ Found this a bit tricky. I realized after completing that the semicolons were co
 
 ## Day 3
 I really struggled with this one and I don't know why. I had the right solution in my head but my just wasn't braining enough today to successfully code it so I couldn't complete the second part. After taking a break I came back and quickly finished it but despite that I'm not happy with my code or how long it took me.
+
+## Day 4
+I found today to be relatively easy. I'm not too happy with the code as I didn't refactor it at all or even think about performance. Part 2 took a bit of thinking to figure out how to do efficiently but I easily implemented it.
