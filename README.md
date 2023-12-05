@@ -11,3 +11,6 @@ I really struggled with this one and I don't know why. I had the right solution 
 
 ## Day 4
 I found today to be relatively easy. I'm not too happy with the code as I didn't refactor it at all or even think about performance. Part 2 took a bit of thinking to figure out how to do efficiently but I easily implemented it.
+
+## Day 5
+Today's looked quite overwhelming and difficult so I decided not to do today's but I am considering trying it at a later date.
