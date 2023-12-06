@@ -14,3 +14,6 @@ I found today to be relatively easy. I'm not too happy with the code as I didn't
 
 ## Day 5
 Today's looked quite overwhelming and difficult so I decided not to do today's but I am considering trying it at a later date.
+
+## Day 6
+The puzzle today looked very easy and was very easy. The difficulty has been all over the place so far. The hardest part of this puzzle was string handling with C++. I don't know if it's cause I haven't done it enough or what but I just couldn't get it to work.
