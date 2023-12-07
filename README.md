@@ -17,3 +17,6 @@ Today's looked quite overwhelming and difficult so I decided not to do today's b
 
 ## Day 6
 The puzzle today looked very easy and was very easy. The difficulty has been all over the place so far. The hardest part of this puzzle was string handling with C++. I don't know if it's cause I haven't done it enough or what but I just couldn't get it to work.
+
+## Day 7
+I don't believe I have a particularly efficient solution today but it worked. I struggled a bit in part 2 as I hadn't read it properly and was fully replacing Js with what they were pretending to be. I got stuck beccause of this but I managed to find better test input on reddit which helped me find and quickly fix the bug.
