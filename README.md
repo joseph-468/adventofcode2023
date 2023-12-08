@@ -20,3 +20,6 @@ The puzzle today looked very easy and was very easy. The difficulty has been all
 
 ## Day 7
 I don't believe I have a particularly efficient solution today but it worked. I struggled a bit in part 2 as I hadn't read it properly and was fully replacing Js with what they were pretending to be. I got stuck beccause of this but I managed to find better test input on reddit which helped me find and quickly fix the bug.
+
+## Day 8
+I found the first half very easy and I am even a little happy with my code. Part 2 I gave up on too early as I think I could have had a chance of disovery the LCM solution if I tried for a little longer.
