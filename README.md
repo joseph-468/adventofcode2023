@@ -23,3 +23,6 @@ I don't believe I have a particularly efficient solution today but it worked. I 
 
 ## Day 8
 I found the first half very easy and I am even a little happy with my code. Part 2 I gave up on too early as I think I could have had a chance of disovery the LCM solution if I tried for a little longer.
+
+## Day 9
+Didn't even attempt today's puzzle because it looked pretty complex and I wanted to focus on learning OpenGL. Will probably start attempting the earlier ones I haven't done once the puzzles are 100% too hard for me.
